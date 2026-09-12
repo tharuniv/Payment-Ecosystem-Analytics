@@ -82,7 +82,7 @@ During this course, I gained practical knowledge and hands-on experience in Data
   for prediction and interpretation, and presented the results through an interactive Streamlit application and dashboard.
 </p>
 <p>
-  <a href="https://github.com/sure-trust/THARUNI-VANGURU-g2-data-analytics/blob/287d8039c707debe1d44eb446d1e42097c714d9b/Course%20report/SURE%20Trust%20project%20document.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/tharuniv/Payment-Ecosystem-Analytics/blob/f8b6e1243253cba1fb22217e30e87383822c1377/SURE%20Trust%20project%20document.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 
