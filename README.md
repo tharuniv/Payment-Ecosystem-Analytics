@@ -137,7 +137,7 @@ During my internship period, I participated in community-oriented activities in 
 
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/52c464c1-0337-457f-bc53-38a081d2d478" 
+<img src="https://github.com/tharuniv/Payment-Ecosystem-Analytics/blob/d96622a61ebd56c2754ce0db73192832b322b678/asset/1.jpeg" 
 " alt="Community Service Photo 1" width="30%">
 <img src="https://github.com/user-attachments/assets/8a5bbd8e-f466-4847-8d7e-80bfacb0318c"
 " alt="Community Service Photo 2" width="30%">
