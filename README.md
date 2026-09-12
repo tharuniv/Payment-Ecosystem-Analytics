@@ -74,7 +74,7 @@ During this course, I gained practical knowledge and hands-on experience in Data
 </div>
 
 <!-- Project 1 -->
-<h3 id="project1">Project 1: Payment Ecosystem Analytics</h3>
+<h3 id="project">Project : Payment Ecosystem Analytics</h3>
 <p>
    This project focused on analyzing India’s payment ecosystem using real-world ATM, PSI and NPCI datasets for 2025.
   I worked on data cleaning, validation, Exploratory Data Analysis, comparative analysis, hypothesis testing and business querying
