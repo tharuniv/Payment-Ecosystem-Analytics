@@ -139,10 +139,8 @@ During my internship period, I participated in community-oriented activities in 
 <div align="center">
 <img src="https://github.com/tharuniv/Payment-Ecosystem-Analytics/blob/d96622a61ebd56c2754ce0db73192832b322b678/asset/1.jpeg" 
 " alt="Community Service Photo 1" width="30%">
-<img src="https://github.com/user-attachments/assets/8a5bbd8e-f466-4847-8d7e-80bfacb0318c"
+<img src="https://github.com/tharuniv/Payment-Ecosystem-Analytics/blob/3e2f96fe87760c19e4755450de2e10ec053f3d6b/asset/3.jpeg"
 " alt="Community Service Photo 2" width="30%">
-<img src="https://github.com/user-attachments/assets/fa4689d0-1bdc-4dff-ae77-0ced0974aa9f"
-" alt="Community Service Photo 3" width="30%">
 </div>
 
 ---
